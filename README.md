@@ -8,4 +8,4 @@
 2. Run in your local development
    `npm run start`
 
-![screenshot.png](screenshot.png)
+
